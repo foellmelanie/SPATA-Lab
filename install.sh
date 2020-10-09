@@ -4,7 +4,7 @@ echo "###################### Install SPATA-Lab ########################"
 
 
 #Install packages and requirements 
-Dir="/usr/bin/R"
+Dir="/usr/lib/R/bin/R"
 
 echo "$Dir"
 
